@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shivam Bhardwaj</h1>
-<h3 align="center">I am a senior grad at BU, a passionate data scientist and quantitative researcher based in Boston.</h3>
+<h3 align="center">I am a senior grad at BU, a passionate data scientist and quantitative researcher based out of Boston.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhardwajshivam&label=Profile%20views&color=0e75b6&style=flat" alt="bhardwajshivam" /> </p>
 
