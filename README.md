@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Data Science, Quantitative analysis, Backend Development and Statistics.**
 
-- 📫 How to reach me **shivamb.work@gmail.com**
+- 📫 You can reach me at **shivamb.work@gmail.com**
 
 - ⚡ Fun fact **Real Madrid in the greatest club in the world <3**
 
