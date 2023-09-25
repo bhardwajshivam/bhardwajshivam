@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhardwajshivam" alt="bhardwajshivam" /></a> </p>
 
-- 🔭 I’m currently working on **StockSage: Data Analysis, Prediction, and Optimal Trading Strategies**
+- 🔭 I’m currently working on **Optimization of order exexution strategy**
 
 - 💬 Ask me about **Data Science, Quantitative analysis, Backend Development and Statistics.**
 
