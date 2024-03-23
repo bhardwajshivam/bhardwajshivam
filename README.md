@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shivam Bhardwaj</h1>
-<h3 align="center">I am a senior grad at BU, a passionate data scientist and quantitative researcher based out of Boston.</h3>
+<h3 align="center">A passionate data scientist and quantitative researcher based out of Boston.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhardwajshivam&label=Profile%20views&color=0e75b6&style=flat" alt="bhardwajshivam" /> </p>
 
-- 🔭 I’m currently working on **Optimization of order exexution strategy**
+- 🔭 I’m currently working on **Building RAG Applications, Reinforcement Learning**
 
 - 💬 Ask me about **Data Science, Quantitative analysis, Backend Development and Statistics.**
 
