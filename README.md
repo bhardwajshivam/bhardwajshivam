@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhardwajshivam&label=Profile%20views&color=0e75b6&style=flat" alt="bhardwajshivam" /> </p>
 
-- 🔭 I’m currently working on **Building RAG Applications, Reinforcement Learning**
+- 🔭 I’m currently working on **LLM Agent Workflows**
 
 - 💬 Ask me about **Data Science, Quantitative analysis, Backend Development and Statistics.**
 
