@@ -5,7 +5,7 @@ I am a Machine Learning Researcher with a strong focus on high-dimensional machi
 
 In my free time, I love playing soccer, cafe hopping and appreciating nature.
 
-- 🔭 I’m currently working on **LLM Agent Workflows**
+- 🔭 I’m currently working on **AI Safety**
 
 - 📫 You can reach me at **bshivam.work@gmail.com**
 
