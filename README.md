@@ -24,4 +24,4 @@ In my free time, I love playing soccer, cafe hopping and cooking.
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhardwajshivam&show_icons=true&locale=en" alt="bhardwajshivam" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhardwajshivam&" alt="bhardwajshivam" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhardwajshivam&" alt="bhardwajshivam" /></p>
