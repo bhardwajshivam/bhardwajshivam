@@ -1,13 +1,18 @@
 <h1 align="center">Namaste 🙏</h1>
 <h3 align="center">I am Shivam, welcome to my GitHub profile!!</h3>
+<p>
+I am a Machine Learning Researcher with a strong focus on high-dimensional machine learning problems, reinforcement learning, and AI safety. My expertise extends to designing cloud-native systems, solving optimization problems, and developing intelligent algorithms that ensure robustness and ethical AI practices.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bhardwajshivam&label=Profile%20views&color=0e75b6&style=flat" alt="bhardwajshivam" /> </p>
+In my free time, I love playing soccer, cafe hopping and appreciating nature.
 
 - 🔭 I’m currently working on **LLM Agent Workflows**
 
 - 📫 You can reach me at **bshivam.work@gmail.com**
 
 - ⚡ Fun fact **Real Madrid in the greatest club in the world <3**
+
+</p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
