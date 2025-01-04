@@ -1,12 +1,12 @@
 # Machine Learning Engineer
 
 ## Technical Skills
-**Programming Languages:** Python, R, C++, JavaScript, RUST.
-**Databases:** MySQL, Oracle, PostgreSQL, MongoDB, S3, RedShift, DynamoDB.
-**Big Data:** PySpark, Hadoop, Numpy, Pandas, Kafka, Kinesis, EMR, Glue, Quicksight, Athena, Elasticsearch.
-**MLOps:** Docker, ECS, ECR, EKS, CI/CD, SageMaker, CLI, CDK, Linux/Unix, Airflow.
-**ML Frameworks/Libraries:** Pytorch, Tensorflow, Keras, Flask, CUDA.
-**Gen AI:** Agentic (AutoGen, CrewAI), LLM (Fine-tuning, Quantization, RAG), VectorDB (chroma, pinecone, neo4j, vertex).
+- **Programming Languages:** Python, R, C++, JavaScript, RUST.
+- **Databases:** MySQL, Oracle, PostgreSQL, MongoDB, S3, RedShift, DynamoDB.
+- **Big Data:** PySpark, Hadoop, Numpy, Pandas, Kafka, Kinesis, EMR, Glue, Quicksight, Athena, Elasticsearch.
+- **MLOps:** Docker, ECS, ECR, EKS, CI/CD, SageMaker, CLI, CDK, Linux/Unix, Airflow.
+- **ML Frameworks/Libraries:** Pytorch, Tensorflow, Keras, Flask, CUDA.
+- **Gen AI:** Agentic (AutoGen, CrewAI), LLM (Fine-tuning, Quantization, RAG), VectorDB (chroma, pinecone, neo4j, vertex).
 
 ## Education						       		
 - M.S., Data Science	| Boston University 			        		
