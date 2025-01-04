@@ -14,7 +14,7 @@
 
 ## Work Experience
 
-**Research Associate @ Keelworks (_June 2024 - August 2024_)**
+**Research Associate @ Y-RISE (_June 2024 - August 2024_)**
 - Building cto.ai, a multi-agent LLM-powered survey generation platform with question recommendation using chain of thought and agentic RAG.
 - Developed a causal relation between extracted band values of high resolution satellite images and water-salinity levels incorporating RIDGE, LASSO, Elastic Net, Huber and Bayesian linear regression models.
 - Performing temporal analysis of day-time and night-time satellite images (ConvLSTM,  TCN, ST-GCN), integrating power outage and public health data to determine relationship between reliable electricity and economic development in Kenya.
